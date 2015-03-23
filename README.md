@@ -18,6 +18,7 @@ This package has been made to quickly get yourself up and running with making a 
 		-- custom.css (Contains small style tweaks, edit this file at your will)
     - images/
         -- icon-16.png
+        -- icon-32.png
         -- icon-48.png
         -- icon-128.png
 			--- Please note, this is just a filler image for your extension.
